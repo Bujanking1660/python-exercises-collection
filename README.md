@@ -67,7 +67,3 @@ Dibuat dengan semangat belajar oleh Rizkya Gusnaldy Kalia
 
 ```
 
-
-Apakah ada bagian tertentu yang ingin kamu tambahkan atau ubah?
-
-```
